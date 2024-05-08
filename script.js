@@ -192,7 +192,7 @@ function translatePage () {
         chapter4H1.innerText='Chapter 4: New Horizons';
         chapter4P.innerText="I am currently finishing my degree in Systems Analysis and Development and taking courses focused on programming and improving my skills."
     
-        box1ProjectText.innerText="Using Node.js, the application is responsible for displaying picture links only to registered users."
+        box1ProjectText.innerText="Project that utilizes ReactJS + external NodeJS API for user login and registration. Explore a variety of movies with descriptions and trailers from the TMDB API."
         box2ProjectText.innerText="Chat developed using SOCKET.IO with user registration and login."
         box3ProjectText.innerText="A simple project for developing skills in data filtering and database integration."
         box4ProjectText.innerText="Game developed in React Native using gravitational laws with user login and registration through an external API."
@@ -242,7 +242,7 @@ function translatePage () {
         chapter4H1.innerText='Capítulo 4: Novos Horizontes';
         chapter4P.innerText="Atualmente estou finalizando a universidade de Análise e Desenvolvimento de Sistemas e realizando cursos voltados para programação e aprimoramento das minhas skills."
     
-        box1ProjectText.innerText="Utilizando NodeJS a aplicação é responsável por exibir link de pictures somente para usuários cadastrados"
+        box1ProjectText.innerText="Projeto que usa ReactJS + API externa em NodeJS para login e registro de usuário. Explore uma variedade de filmes com descrições e trailers da API TMDB"
         box2ProjectText.innerText="Chat desenvolvido usando SOCKET.IO com cadastro e login de usuário."
         box3ProjectText.innerText="Projeto simples para desenvolvimento em habilidades como filtragem de dados e vinculação com banco de dados."
         box4ProjectText.innerText="Game desenvolvido em ReactNative utilizando leis gravitacionais com login e cadastro de usuário por API externa."
