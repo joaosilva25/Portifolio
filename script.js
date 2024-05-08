@@ -150,6 +150,7 @@ let box3ProjectText=document.querySelector('.box3ProjectText')
 let box4ProjectText=document.querySelector('.box4ProjectText')
 let box5ProjectText=document.querySelector('.box5ProjectText')
 let othersProjectText=document.querySelector('.othersProject p')
+let obsProject=document.querySelector('.obsProject')
 
 let congratsTextH1=document.querySelector('.congratsText h1');
 let congratsTextP=document.querySelector('.congratsText p');
@@ -163,6 +164,7 @@ let jumpInstructionTxt=document.querySelector('.jumpInstructionTxt');
 
 let thanksTxt=document.querySelector('.thanksTxt');
 let socialMediaTxt=document.querySelector('.socialMediaTxt p');
+
 
 
 function translatePage () {
@@ -196,7 +198,7 @@ function translatePage () {
         box4ProjectText.innerText="Game developed in React Native using gravitational laws with user login and registration through an external API."
         box5ProjectText.innerText="Translator developed using JavaScript API requests translating from English to Brazilian Portuguese."
         othersProjectText.innerText="Others projects"
-
+        obsProject.innerText="Click on the project and wait for initialization. There may be a brief waiting time due to deployment on the free version of Render."
 
         congratsTextH1.innerText="Congratulations"
         congratsTextP.innerText="Click on the icons and connect with me"
@@ -246,6 +248,7 @@ function translatePage () {
         box4ProjectText.innerText="Game desenvolvido em ReactNative utilizando leis gravitacionais com login e cadastro de usuário por API externa."
         box5ProjectText.innerText="Tradutor desenvolvido utilizando requisições de API javascript traduzindo de ING para PT-BR."
         othersProjectText.innerText="Outros projetos"
+        obsProject.innerText="Clique no projeto e aguarde a inicialização. Pode haver um breve tempo de espera devido o deploy na versão gratuita do Render."
     
         congratsTextH1.innerText="Parabéns"
         congratsTextP.innerText="Clique nos icones e se conecte comigo"

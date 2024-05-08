@@ -591,6 +591,13 @@ img {
     color: var(--cor-secundary);
 }
 
+.obsProject {	
+    font-size: max(12px,0.9vw);
+    width: max(250px,25vw);
+    font-weight: bold;
+    color:var(--cor-text)
+}
+
 
 
 
@@ -654,7 +661,7 @@ img {
 }
 
 .imgBox1 {
-    background-image: url(assets/images/webPicImg.png);
+    background-image: url(assets/images/flixorama.png);
 }
 
 .imgBox2 {
