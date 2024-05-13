@@ -17,3 +17,11 @@ Sou alguém que admiro a humildade, pois acredito que é através dela que se ab
 ![portifolio pic5](https://github.com/joaosilva25/Portifolio/assets/117541067/9164d491-a5d3-43d8-ae63-a92aa2a2fb08)
 ![portifolio pic1](https://github.com/joaosilva25/Portifolio/assets/117541067/81a6f4b3-7432-4841-9cc4-bc45b9d0af5b)
 ![portifolio pic2](https://github.com/joaosilva25/Portifolio/assets/117541067/024480ea-c740-4c9a-8a96-5fcce70ca845)
+
+
+<h1>Contato</h1>
+<p>Linkedin:</p>
+<p>http://www.linkedin.com/in/joaovitordasilvap/</p>
+
+<p>Curriculo:</p>
+[João Vitor - CV.pdf] (https://github.com/joaosilva25/Portifolio/files/15295449/Joao.Vitor.-.CV.pdf)
